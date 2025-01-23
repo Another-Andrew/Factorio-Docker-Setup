@@ -38,7 +38,7 @@ sudo docker run -d \
   factoriotools/factorio
 ```
 
-If you don't need RCON then remove "-p 27015:27015/tcp \"
+If you don't need RCON then remove ```-p 27015:27015/tcp \```
 
 ## Configuring the server
 1. After your docker container launches, edit ```factorio/config/server-config.json```. (note: make sure you have read/write permissions, or just edit the config with sudo)

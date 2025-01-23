@@ -53,7 +53,7 @@ If you don't need RCON then remove ```-p 27015:27015/tcp \```
   ## Enjoy!
   I'll update this README as I learn more about installing the server. Please contact me if you have any suggestions for changes/additions to this document. 
   
-Important Note: There are many more things you may want to consider doing to secure your server. However that is outside the scope of this Factorio Server installation guide. 
+Important Note: There are many more things you may want to consider doing to secure your server. However that is outside the scope of this guide. 
 
 Resources Used: 
 
